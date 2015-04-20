@@ -1,0 +1,35 @@
+
+.main button {
+    background-color: #3399FF;
+    padding: 10px;
+    overflow: auto;
+}
+
+.main .active {
+    background-color: #0033CC;
+}
+
+div.input {
+    background-color: #00CC66;
+    padding: 10px;
+    min-height: 50px;
+    padding-right: 250px;
+}
+
+div.results {
+    background-color: white;
+    min-height: 50px;
+    max-height: 50px;
+    padding: 10px;
+    padding-right: 250px;
+}
+
+div.resultText {
+    float: right;
+}
+
+div.inputContainer {
+    float: right;
+}
+
+
